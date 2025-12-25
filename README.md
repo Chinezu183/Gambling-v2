@@ -27,3 +27,17 @@
 - Boost permanent pe level multiplu de 5
 - Boost temporar de la admin expiră după 10 minute
 - Antifaliment: dacă ajungi la 0 primești +300 monede o dată la 24h
+
+# WhatsApp Gambling 24h
+
+
+Bot WhatsApp real folosind Baileys + Pairing Code (fără QR).
+
+## Instalare (Termux)
+
+```bash
+pkg install nodejs git
+git clone https://github.com/USERNAME/wa-gambling-bot.git
+cd wa-gambling-bot
+npm install
+node index.js
